@@ -1,0 +1,10 @@
+name = "flow-liquid-tasks"
+main = "worker.js"
+compatibility_date = "2026-10-18"
+assets = { directory = "." }
+[[ai]]
+binding = "AI"
+[[d1_databases]]
+binding = "DB"
+database_name = "flow"
+database_id = "b6d7514a-3c1d-4e8a-bd7e-61cf785e2f2d"
